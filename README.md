@@ -15,4 +15,4 @@ Ghostscript: https://www.ghostscript.com/download/gsdnld.html
 
 ## LICENSE
 
-ghostscript_pdf_rgb2cmyk and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
+ghostscript-pdf-rgb2cmyk and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
